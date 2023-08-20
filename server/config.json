@@ -6,7 +6,7 @@
 
   "codeblock_type": "small",
 
-  "ip_ratelimit": 3,
+  "ip_ratelimit": 30,
   "reset_ratelimit_after": 10,
 
   "mc_embed_color": "FF031A",
